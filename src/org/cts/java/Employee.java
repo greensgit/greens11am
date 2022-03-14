@@ -10,6 +10,8 @@ public class Employee {
 	private void empName() {
 
 		System.out.println("Employee name is Deva");
+		System.out.println("Employee name is raj");
+
 	}
 	
 public static void main(String[] args) {
